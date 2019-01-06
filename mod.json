@@ -1,0 +1,12 @@
+{
+    "Name": "FasterTooltips",
+    "DLL": "FasterTooltips.dll",
+
+    "Version": "1.0.0",
+    "Description": "A small quality of life mod that decreases the time it takes for the tooltips to appear, making the UI feel more responsive and quicker.",
+    "Author": "strogge",
+    "Website": "www.github.com/kgoransson/battletech_fastertooltips",
+    "Settings": {
+        "TooltipDelay": 0.33,
+    }
+}
